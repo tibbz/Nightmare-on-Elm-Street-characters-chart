@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="styles/styles.css">
+</head>
+
+<body>
+    <div id="app">
+
+        <div class="pagetitle">
+<!--            <h1>Nightmare on Elm Street characters chart</h1>-->
+            <img class="banner" src="nightmare%20banner.jpg" alt="nightmarebanner"/>
+            <h1 class="title">characters chart</h1>
+        </div>
+
+        <table id="tablechart" class="table table-striped">
+            <thead>
+                <tr id="tablehead">
+                    <th>Name</th>
+                    <th>Role</th>
+                    <th>Dead?</th>
+                    <th>Cause of Death</th>
+                    <th>Movies</th>
+                    <th>More info</th>
+                </tr>
+            </thead>
+            
+            <tr v-for="(people, index) in people">
+                <td :data-id="index"><b>{{people.name}}</b></td>
+                <td>{{people.role}}</td>
+                <td>{{people.dead}}</td>
+                <td>{{people.death_cause}}</td>
+                <td>{{people.movies}}</td>
+                <td class="modal-content">
+                    <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal" :data-id="index" @click="modalbutton">+ info</button>
+                </td>
+            </tr>
+            
+        </table>
+
+        <div class="modal fade" id="myModal" role="dialog">
+            <div class="modal-dialog" >
+
+                <!-- Modal content-->
+                <div class="modal-content">
+
+                    <div class="modal-header" >
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h4 class="modal-title">{{info.name}}</h4>
+                    </div>
+
+                    <div class="modal-body">
+                        <img :src="contact.photo" class="peopleim"/> 
+                        <p><b>Real name:</b> {{contact.realName}}</p>
+                        <p><b>DOB:</b> {{contact.born}}</p>
+                        <p><b>Age:</b> {{contact.age}}</p>
+                        <a :href="contact.site" target="_blank">Go to site</a>
+                        
+                        
+<!--
+                        <table id="secondtable" class="second">
+                            <thead class="datos">
+                                <tr>
+                                    <th>Real name:</th>
+                                    <th>DOB</th>
+                                    <th>Age:</th>
+                                </tr>
+                            </thead>
+                            <tbody class="relleno">
+                                <td>{{contact.realName}}</td>
+                                <td>{{contact.born}}</td>
+                            <td><a :href="contact.site" target="_blank">Go to site</a></td>
+                            </tbody>
+                        
+                        
+                        </table>
+-->
+                        
+                    </div>
+
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.5.17/dist/vue.js"></script>
+    <script src="scripts/code.js"></script>
+</body>
+
+
+</html>

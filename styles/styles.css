@@ -1,0 +1,71 @@
+body {
+    width: 100%;
+}
+
+.banner {
+    border-radius: 100px;
+    margin-top: 20px;
+}
+
+.modal-title {
+    margin: 0;
+    line-height: 1.42857143;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.peopleim {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin-bottom: 10px;
+}
+
+.modal-body {
+    position: relative;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.pagetitle {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.title {
+    margin-left: 40%;
+}
+
+#tablechart {
+    width: 97%;
+    margin-left: 20px;
+
+}
+
+/*
+
+.btn-default {
+    color: #fff;
+    background-color: #ce1a1a;
+    border-color: #ccc;
+}
+
+.second {
+    display: flex;
+    flex-direction: column;
+}
+
+.datos {
+    display: flex;
+    flex-direction: column;
+}
+
+.relleno {
+    display: flex;
+    flex-direction: column;
+}*/
