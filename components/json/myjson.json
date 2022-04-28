@@ -1,0 +1,228 @@
+{
+    "people": [
+        {
+            "name": "Wes Craven",
+            "role": "Director and writer",
+            "dead": "No",
+            "death_cause": "Immortal",
+            "movies": "A Nightmare on Elm Street, A Nightmare on Elm Street 2: Freddy's Revenge, A Nightmare on Elm Street 3: Dream Warriors, A Nightmare on Elm Street 4: The Dream Master, A Nightmare on Elm Street 5: The Dream Child, Freddy's Dead: The Final Nightmare, Wes Craven's New Nightmare, Freddy vs Jason, Freddy's Nightmares",
+            "contact": {
+                "photo": "http://autumnseyes.com/wp-content/uploads/2015/08/we-craven.jpg",
+                "realName": "Wesley Earl Craven",
+                "born": "2 August 1939",
+                "age": 79,
+                "site": "http://www.wescraven.com/"
+            }
+        },
+
+        {
+            "name": "Freddy Krueger",
+            "role": "Mass murderer",
+            "dead": "Unknown",
+            "death_cause": "Pinned to wall/crate with various weapons, bladed glove in stomach, blown up by pipe bomb // Impaled with own bladed glove, decapitated",
+            "movies": "A Nightmare on Elm Street, A Nightmare on Elm Street 2: Freddy's Revenge, A Nightmare on Elm Street 3: Dream Warriors, A Nightmare on Elm Street 4: The Dream Master, A Nightmare on Elm Street 5: The Dream Child, Freddy's Dead: The Final Nightmare, Wes Craven's New Nightmare, Freddy vs Jason, Freddy's Nightmares",
+            "contact": {
+                "photo": "https://vignette.wikia.nocookie.net/youtubepoop/images/d/df/Freddy.jpg/revision/latest?cb=20150311041547",
+                "realName": "Robert Englund",
+                "born": "6 June 1947",
+                "age": 71,
+                "site": "https://www.robertenglund.com/"
+            }
+        },
+
+        {
+            "name": "Nancy Thompson",
+            "role": "Kid",
+            "dead": "Yes",
+            "death_cause": "Stabbed in ribs/stomach twice with bladed glove, gutted, blood-loss",
+            "movies": "A Nightmare on Elm Street, A Nightmare on Elm Street 3: Dream Warriors, Wes Craven's New Nightmare, Freddy vs Jason",
+            "contact": {
+                "photo": "http://img2.wikia.nocookie.net/__cb20130225170750/horrormovies/images/5/5c/Freddy_%26_Nancy.jpg",
+                "realName": "Heather Langenkamp",
+                "born": "17 July 1964",
+                "age": 54,
+                "site": "https://nightmareonelmstreet.fandom.com/wiki/Main_Page"
+            }
+        },
+
+        {
+            "name": "Donald Thompson",
+            "role": "Nancy's dad",
+            "dead": "Yes",
+            "death_cause": "Stabbed in the side with bladed glove, thrown, impaled on car's tail fin",
+            "movies": "A Nightmare on Elm Street, A Nightmare on Elm Street 3: Dream Warriors, Wes Craven's New Nightmare",
+            "contact": {
+                "photo": "https://horrorgeeklife.com/wp-content/uploads/2017/02/Dream-Warriors-Donald.jpg",
+                "realName": "John Saxon",
+                "born": "5 August 1935",
+                "age": 83,
+                "site": "https://nightmareonelmstreet.fandom.com/wiki/Main_Page"
+            }
+        },
+
+        {
+            "name": "Tina Gray",
+            "role": "Kid",
+            "dead": "Yes",
+            "death_cause": "Slashed across chest with bladed glove, levitated, thrown, dragged up wall to ceiling, dropped",
+            "movies": "A Nightmare on Elm Street, A Nightmare on Elm Street 3: Dream Warriors, Wes Craven's New Nightmare",
+            "contact": {
+                "photo": "https://horrorgeeklife.com/wp-content/uploads/2017/02/Dream-Warriors-Donald.jpg",
+                "realName": "Amanda Wyss",
+                "born": "5 August 1935",
+                "age": 58,
+                "site": "https://nightmareonelmstreet.fandom.com/wiki/Main_Page"
+            }
+        },
+
+        {
+            "name": "Jesse Walsh",
+            "role": "Kid",
+            "dead": "Not on screen",
+            "death_cause": "Unknown",
+            "movies": "A Nightmare on Elm Street 2: Freddy's Revenge, Freddy vs Jason",
+            "contact": {
+                "photo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Mark_Patton_as_Jesse_Walsh.png/220px-Mark_Patton_as_Jesse_Walsh.png",
+                "realName": "Mark Patton",
+                "born": "22 September 1958",
+                "age": 60,
+                "site": "https://nightmareonelmstreet.fandom.com/wiki/Main_Page"
+            }
+        },
+
+        {
+            "name": "Kristen Parker",
+            "role": "Kid",
+            "dead": "Yes",
+            "death_cause": "Thrown into lit furnace, burned to death",
+            "movies": "A Nightmare on Elm Street 3: Dream Warriors, A Nightmare on Elm Street 4: The Dream Master, Freddy vs Jason",
+            "contact": {
+                "photo": "https://stmed.net/sites/default/files/a-nightmare-on-elm-street-3%3A-dream-warriors-wallpapers-29357-2637899.jpg",
+                "realName": "Patricia Arquette",
+                "born": "8 April 1968",
+                "age": 50,
+                "site": "https://nightmareonelmstreet.fandom.com/wiki/Main_Page"
+            }
+        },
+        
+        {
+            "name": "Joey Crusel",
+            "role": "Kid",
+            "dead": "Yes",
+            "death_cause": "Pulled into waterbed, stabbed in torso with bladed glove, drowned",
+            "movies": "A Nightmare on Elm Street 3: Dream Warriors, A Nightmare on Elm Street 4: The Dream Master, Freddy vs Jason",
+            "contact": {
+                "photo": "https://i.pinimg.com/originals/76/7f/3c/767f3ce57eb8aecc4520535de96cbfd0.jpg",
+                "realName": "Rodney Eastman",
+                "born": "20 July 1967",
+                "age": 51,
+                "site": "https://nightmareonelmstreet.fandom.com/wiki/Main_Page"
+            }
+        },
+        
+        {
+            "name": "Roland Kincaid",
+            "role": "Kid",
+            "dead": "Yes",
+            "death_cause": "Stabbed in stomach, stabbed through abdomen/belly three more times/belly impaled with bladed glove, gutted, blood-loss",
+            "movies": "A Nightmare on Elm Street 3: Dream Warriors, A Nightmare on Elm Street 4: The Dream Master, Freddy vs Jason",
+            "contact": {
+                "photo": "https://www.picsofcelebrities.com/celebrity/ken-sagoes/pictures/large/ken-sagoes-kids.jpg",
+                "realName": "Ken Sagoes",
+                "born": "28 April 1964",
+                "age": 54,
+                "site": "https://nightmareonelmstreet.fandom.com/wiki/Main_Page"
+            }
+        },
+        
+        {
+            "name": "Amanda Krueger",
+            "role": "Freddy's mom",
+            "dead": "Yes, body never found",
+            "death_cause": "Suicide",
+            "movies": "A Nightmare on Elm Street 3: Dream Warriors, A Nightmare on Elm Street 5: The Dream Child",
+            "contact": {
+                "photo": "https://i.pinimg.com/originals/4c/0c/92/4c0c92b36189f05bdcbe7ac7570ea431.jpg",
+                "realName": "Nan Martin",
+                "born": "15 July 1927",
+                "age": 91,
+                "site": "https://nightmareonelmstreet.fandom.com/wiki/Main_Page"
+            }
+        },
+        
+        {
+            "name": "Alice Johnson",
+            "role": "Kid",
+            "dead": "Unknown",
+            "death_cause": "Unknown",
+            "movies": "A Nightmare on Elm Street 4: The Dream Master, A Nightmare on Elm Street 5: The Dream Child, Freddy vs Jason",
+            "contact": {
+                "photo": "https://dailydead.com/wp-content/uploads/2018/07/Freddy-Lisa-Podcast.jpg",
+                "realName": "Lisa Wilcox",
+                "born": "27 April 1964 ",
+                "age": 54,
+                "site": "https://nightmareonelmstreet.fandom.com/wiki/Main_Page"
+            }
+        },
+        
+        {
+            "name": "Dan Jordan",
+            "role": "Kid",
+            "dead": "Yes",
+            "death_cause": "Fused with motorcycle by wires, crashed into truck",
+            "movies": "A Nightmare on Elm Street 4: The Dream Master, A Nightmare on Elm Street 5: The Dream Child",
+            "contact": {
+                "photo": "https://i2.wp.com/www.dreadcentral.com/wp-content/uploads/2017/11/Nightmare-5-Dans-Death.jpg?resize=740%2C370",
+                "realName": "Danny Hassel",
+                "born": "7 December 1967",
+                "age": 50,
+                "site": "https://nightmareonelmstreet.fandom.com/wiki/Main_Page"
+            }
+        },
+        
+        {
+            "name": "Yvonne Miller",
+            "role": "Kid",
+            "dead": "Unknown",
+            "death_cause": "Unknown",
+            "movies": "A Nightmare on Elm Street 5: The Dream Child",
+            "contact": {
+                "photo": "http://1.bp.blogspot.com/_FPLXIK0wH4c/S7vFrv-ZZ-I/AAAAAAAABXs/G5ypRL2-ESI/s1600/cap276.bmp",
+                "realName": "Kelly Jo Minter",
+                "born": "24 September 1966",
+                "age": 52,
+                "site": "https://nightmareonelmstreet.fandom.com/wiki/Main_Page"
+            }
+        },      
+        {
+            "name": "Maggie Burroughs",
+            "role": "Freddy's daughter",
+            "dead": "No",
+            "death_cause": "None!",
+            "movies": "Freddy's Dead: The Final Nightmare",
+            "contact": {
+                "photo": "https://vignette.wikia.nocookie.net/anoeshistory/images/f/f9/Nightmare6dvd15-1-.jpg/revision/latest?cb=20090809194959",
+                "realName": "Lisa Zane",
+                "born": "5 April 1961",
+                "age": 57,
+                "site": "https://nightmareonelmstreet.fandom.com/wiki/Main_Page"
+            }
+        },
+        
+        {
+            "name": "Dylan Porter",
+            "role": "Nancy's son",
+            "dead": "No",
+            "death_cause": "None!",
+            "movies": "Wes Craven's New Nightmare",
+            "contact": {
+                "photo": "https://pbs.twimg.com/media/CHj79y0WEAANnQl.jpg",
+                "realName": "Miko Hughes",
+                "born": "22 February 1986",
+                "age": 32,
+                "site": "https://nightmareonelmstreet.fandom.com/wiki/Main_Page"
+            }
+        }
+    ]
+}
+
